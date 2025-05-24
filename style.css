@@ -29,9 +29,12 @@ h2{
     border-radius: 5px;
     padding: 20px;
     background-color: white;
-    align-items: center;
+    
     justify-content: center;
     
+}
+label{
+    color: red;
 }
 .form1 input{
     display: flex;
@@ -54,7 +57,7 @@ textarea{
 .form2{
     
     width: 35%;
-    height: 69vh;
+    height: 82vh;
     border: none #2e1515;
     border-radius: 5px;
     padding: 20px;
